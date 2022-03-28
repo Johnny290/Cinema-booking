@@ -1,1 +1,1 @@
-# Cinema-booking
+# Cinema-seat-booking
