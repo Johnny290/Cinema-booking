@@ -113,3 +113,27 @@ p.text{
 p.text span{
     color: rgb(158, 248, 158);
 }
+
+.btn-rld {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  margin: 5px 0;
+  padding: 6px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+.btn-rld:hover {
+  box-shadow: 0 3px 12px 0 gray, 0 17px 50px 0 gray;
+}
+
+#err {
+  color: rgb(238, 56, 56);
+  font-size: 20px;
+  font-weight: italic;
+}
