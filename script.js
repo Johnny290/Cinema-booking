@@ -99,9 +99,3 @@ function UI()
 
   
 }
-
-function rld()
-{
-  console.log("Data Saved")
-  location.reload();
-}
